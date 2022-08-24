@@ -3,6 +3,7 @@
 ********************************
 * Neal Gehring
 * 08/24/2022
+* CMSC255 004
 *******************************/
 
 public class Hello {
@@ -12,7 +13,7 @@ public class Hello {
 		System.out.println("Neal Gehring");
 		System.out.println("Hello.java");
 		System.out.println("08/24/2022");
-		System.out.println("CMSC255 Lab01");
+		System.out.println("CMSC255 004");
 		System.out.println();
 		
 		}
